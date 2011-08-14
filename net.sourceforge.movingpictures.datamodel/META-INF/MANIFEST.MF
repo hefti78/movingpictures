@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Moving Pictures Datamodel
+Bundle-SymbolicName: net.sourceforge.movingpictures.datamodel
+Bundle-Version: 1.0.0.0
+Bundle-Activator: net.sourceforge.movingpictures.datamodel.Activator
+Bundle-Vendor: Jörg
+Export-Package: net.sourceforge.movingpictures.datamodel,
+ net.sourceforge.movingpictures.datamodel.pub
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.jface.databinding,
+ org.eclipse.swt,
+ org.eclipse.jface,
+ org.eclipse.core.databinding,
+ com.ibm.icu,
+ org.eclipse.core.databinding.beans,
+ org.eclipse.core.databinding.property
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
