@@ -1,12 +1,12 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Moving Pictures Datamodel
-Bundle-SymbolicName: net.sourceforge.movingpictures.datamodel
+Bundle-SymbolicName: de.heftrich.movingpictures.datamodel
 Bundle-Version: 1.0.0.0
-Bundle-Activator: net.sourceforge.movingpictures.datamodel.Activator
+Bundle-Activator: de.heftrich.movingpictures.datamodel.Activator
 Bundle-Vendor: Jörg
-Export-Package: net.sourceforge.movingpictures.datamodel,
- net.sourceforge.movingpictures.datamodel.pub
+Export-Package: de.heftrich.movingpictures.datamodel,
+ de.heftrich.movingpictures.datamodel.pub
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,
  org.eclipse.jface.databinding,

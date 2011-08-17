@@ -1,4 +1,4 @@
-package net.sourceforge.movingpictures.datamodel.pub;
+package de.heftrich.movingpictures.datamodel.pub;
 
 public interface IMedia
 {

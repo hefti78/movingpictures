@@ -1,4 +1,4 @@
-package net.sourceforge.movingpictures.datamodel;
+package de.heftrich.movingpictures.datamodel;
 
 import org.eclipse.ui.plugin.AbstractUIPlugin;
 import org.osgi.framework.BundleContext;

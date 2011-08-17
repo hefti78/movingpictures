@@ -1,7 +1,7 @@
 /**
  * 
  */
-package net.sourceforge.movingpictures.datamodel;
+package de.heftrich.movingpictures.datamodel;
 
 
 /**

@@ -1,12 +1,13 @@
 /**
  * 
  */
-package net.sourceforge.movingpictures.datamodel;
+package de.heftrich.movingpictures.datamodel;
 
 import java.util.List;
 
-import net.sourceforge.movingpictures.datamodel.pub.IItem;
-import net.sourceforge.movingpictures.datamodel.pub.IPerson;
+import de.heftrich.movingpictures.datamodel.pub.IItem;
+import de.heftrich.movingpictures.datamodel.pub.IPerson;
+
 
 /**
  * @author torsten
