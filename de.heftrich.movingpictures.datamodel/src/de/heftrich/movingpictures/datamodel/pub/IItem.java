@@ -7,6 +7,8 @@ public interface IItem
 
 	public String getTitle();
 
+	public void setTitle(String title);
+
 	public String getSubTitle();
 
 	public int getID();
