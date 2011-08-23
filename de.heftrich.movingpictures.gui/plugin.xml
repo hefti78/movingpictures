@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.views">
+      <view
+            allowMultiple="false"
+            class="de.heftrich.movingpictures.gui.ItemView"
+            fastViewWidthRatio="0.5"
+            id="de.heftrich.movingpictures.gui.ItemView"
+            name="ItemView"
+            restorable="true">
+      </view>
+      <view
+            allowMultiple="false"
+            class="de.heftrich.movingpictures.gui.CarrierView"
+            fastViewWidthRatio="0.5"
+            id="de.heftrich.movingpictures.gui.Carrier"
+            name="CarrierView"
+            restorable="true">
+      </view>
+   </extension>
+</plugin>

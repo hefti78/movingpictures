@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns:review xmlns:ns="http://reviewclipse.org/model/xml">
+  <period startDate="2009-09-27T23:24:15.386+02:00">
+    <assignment>
+      <author>joergsesterhenn</author>
+      <reviewer>hefti</reviewer>
+      <filter xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    </assignment>
+  </period>
+  <period startDate="2009-09-27T23:26:07.898+02:00">
+    <assignment>
+      <author>joergsesterhenn</author>
+      <reviewer>hefti</reviewer>
+      <filter xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    </assignment>
+    <assignment>
+      <author>hefti</author>
+      <reviewer>joergsesterhenn</reviewer>
+      <filter xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    </assignment>
+  </period>
+  <user name="joergsesterhenn"/>
+  <user name="hefti"/>
+</ns:review>

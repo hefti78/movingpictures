@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Moving Pictures
+Bundle-SymbolicName: de.heftrich.movingpictures.rcp;singleton:=true
+Bundle-Version: 1.0.0.0
+Bundle-Activator: de.heftrich.movingpictures.rcp.Activator
+Bundle-Vendor: Jörg, Fabian, Torsten
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ de.heftrich.movingpictures.datamodel;bundle-version="1.0.0",
+ de.heftrich.movingpictures.gui;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy

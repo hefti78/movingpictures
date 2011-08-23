@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Moving Pictures GUI
+Bundle-SymbolicName: de.heftrich.movingpictures.gui;singleton:=true
+Bundle-Version: 1.0.0.0
+Bundle-Activator: de.heftrich.movingpictures.gui.Activator
+Bundle-Vendor: Jörg, Fabian, Torsten
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
