@@ -22,15 +22,15 @@
          id="product"
          point="org.eclipse.core.runtime.products">
       <product
-            application="de.heftrich.lego.rcp.application"
-            name="LEGO RCP Project">
+            application="de.heftrich.movingpictures.rcp.application"
+            name="Moving Pictures">
          <property
                name="windowImages"
                value="icons/alt_window_16.gif,icons/alt_window_32.gif">
          </property>
          <property
                name="appName"
-               value="LEGO RCP Project">
+               value="Moving Pictures">
          </property>
          <property
                name="startupForegroundColor"
